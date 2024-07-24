@@ -15,8 +15,8 @@ The Teacher Portal is a robust web application designed to streamline the manage
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/mool-singh/tailwebs.git
+cd tailwebs
 ```
 
 ### 2. Install Dependencies
