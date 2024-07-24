@@ -1,7 +1,7 @@
 
 # Tailwebs
 
-The Teacher Portal is a robust web application designed to streamline the management of student information for teachers. Built with PHP, the portal will provide a secure and user-friendly interface for teachers to log in, view their students, and manage student details efficiently.
+Tailwebs is a robust web application designed to streamline the management of student information for teachers. Built with PHP, the portal will provide a secure and user-friendly interface for teachers to log in, view their students, and manage student details efficiently.
 
 ## Requirements
 
